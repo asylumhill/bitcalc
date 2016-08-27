@@ -1,0 +1,2 @@
+# bitcalc
+Xamarin BitCalculator App
